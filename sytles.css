@@ -1,15 +1,4 @@
-hi {
+body {
+  background-color: purple;
   color: white;
-}
-
-main p {
-  color: rgb(0, 38, 255);
-}
-
-button {
-  color: rgb(30, 0, 255);
-}
-
-footer p {
-  color: purple;
 }
